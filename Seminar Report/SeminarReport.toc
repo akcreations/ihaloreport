@@ -1,0 +1,32 @@
+\contentsline {chapter}{List of Figures}{vi}
+\contentsline {chapter}{List of Tables}{1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Literature Review}{2}
+\contentsline {chapter}{\numberline {3}System Analysis}{6}
+\contentsline {section}{\numberline {3.1}Existing System}{6}
+\contentsline {section}{\numberline {3.2}Proposed System}{6}
+\contentsline {section}{\numberline {3.3}Project Modules}{7}
+\contentsline {chapter}{\numberline {4}Requirement Specifications}{8}
+\contentsline {section}{\numberline {4.1}Hardware Requirements}{8}
+\contentsline {section}{\numberline {4.2}Software Requirements}{10}
+\contentsline {chapter}{\numberline {5}System Design}{11}
+\contentsline {section}{\numberline {5.1}Use Case Diagram}{11}
+\contentsline {section}{\numberline {5.2}Data Flow Diagram}{12}
+\contentsline {section}{\numberline {5.3}Block Diagram}{15}
+\contentsline {section}{\numberline {5.4}Sequence Diagram}{17}
+\contentsline {chapter}{\numberline {6}System Testing}{18}
+\contentsline {section}{\numberline {6.1} Testing, Training and Documentation}{18}
+\contentsline {section}{\numberline {6.2} Unit Testing}{20}
+\contentsline {section}{\numberline {6.3} Integrated Testing}{20}
+\contentsline {section}{\numberline {6.4} Validation Testing}{21}
+\contentsline {section}{\numberline {6.5} Module Testing}{21}
+\contentsline {section}{\numberline {6.6} Concurrence Testing}{21}
+\contentsline {section}{\numberline {6.7}Display Testing}{22}
+\contentsline {chapter}{\numberline {7}Prototype}{24}
+\contentsline {chapter}{\numberline {8}Appendices}{25}
+\contentsline {section}{\numberline {8.1}Appendix-I: Arduino code}{25}
+\contentsline {section}{\numberline {8.2}Appendix-II: Development \& Testing}{28}
+\contentsline {section}{\numberline {8.3}Appendix-III: Output}{35}
+\contentsline {chapter}{\numberline {9}Conclusion}{43}
+\contentsline {chapter}{\numberline {10}Future Scope}{44}
+\contentsline {chapter}{\numberline {11}References}{45}

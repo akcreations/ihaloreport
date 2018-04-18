@@ -1,0 +1,1422 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.27)  18 APR 2018 10:43
+entering extended mode
+**./SeminarReport.tex
+(SeminarReport.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (arduinoLanguage.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.s
+ty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count96
+\Gm@cntv=\count97
+\c@Gm@tempcnt=\count98
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks18
+\float@box=\box28
+\@float@everytoks=\toks19
+\@floatcapt=\box29
+)
+\@float@every@figure=\toks20
+\@float@every@table=\toks21
+ (algorithmic.sty
+Package: algorithmic 2005/07/05
+
+Document Style `algorithmic' - environment
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen117
+\calc@Bdimen=\dimen118
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count102
+\calc@Cskip=\skip45
+)
+\c@ALC@line=\count103
+\c@ALC@rem=\count104
+\c@ALC@depth=\count105
+\ALC@tlm=\skip46
+\algorithmicindent=\skip47
+) (algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count106
+\algocf@hangindent=\skip48
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip49
+\skiplinenumber=\skip50
+\skiprule=\skip51
+\skiphlne=\skip52
+\skiptext=\skip53
+\skiplength=\skip54
+\algomargin=\skip55
+\skipalgocfslide=\skip56
+\algowidth=\dimen119
+\inoutsize=\dimen120
+\inoutindent=\dimen121
+\interspacetitleruled=\dimen122
+\interspacealgoruled=\dimen123
+\interspacetitleboxruled=\dimen124
+\algocf@ruledwidth=\skip57
+\algocf@inoutbox=\box30
+\algocf@inputbox=\box31
+\AlCapSkip=\skip58
+\AlCapHSkip=\skip59
+\algoskipindent=\skip60
+\algocf@nlbox=\box32
+\algocf@hangingbox=\box33
+\algocf@untilbox=\box34
+\algocf@skipuntil=\skip61
+\algocf@capbox=\box35
+\algoheightruledefault=\skip62
+\algoheightrule=\skip63
+\algotitleheightruledefault=\skip64
+\algotitleheightrule=\skip65
+\c@algocfline=\count107
+\c@algocfproc=\count108
+\c@algocf=\count109
+\algocf@algoframe=\box36
+\algocf@algobox=\box37
+) (subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+\c@KVtest=\count110
+\sf@farskip=\skip66
+\sf@captopadj=\dimen132
+\sf@capskip=\skip67
+\sf@nearskip=\skip68
+\c@subfigure=\count111
+\c@subfigure@save=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@subtable@save=\count115
+\c@lotdepth=\count116
+\sf@top=\skip69
+\sf@bottom=\skip70
+) (setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (fancyhdr.sty
+\fancy@headwidth=\skip71
+\f@ncyO@elh=\skip72
+\f@ncyO@erh=\skip73
+\f@ncyO@olh=\skip74
+\f@ncyO@orh=\skip75
+\f@ncyO@elf=\skip76
+\f@ncyO@erf=\skip77
+\f@ncyO@olf=\skip78
+\f@ncyO@orf=\skip79
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks22
+\AP@partial=\box38
+\AP@footins=\box39
+) (blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count117
+\c@Blindtext=\count118
+\c@blind@countparstart=\count119
+\blind@countxx=\count120
+\blindtext@numBlindtext=\count121
+\blind@countyy=\count122
+\c@blindlist=\count123
+\c@blindlistlevel=\count124
+\c@blindlist@level=\count125
+\blind@listitem=\count126
+\c@blind@listcount=\count127
+\c@blind@levelcount=\count128
+\blind@mathformula=\count129
+\blind@Mathformula=\count130
+\c@blind@randomcount=\count131
+\c@blind@randommax=\count132
+\c@blind@pangramcount=\count133
+\c@blind@pangrammax=\count134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box40
+\beforetitleunit=\skip80
+\aftertitleunit=\skip81
+\ttl@plus=\dimen133
+\ttl@minus=\dimen134
+\ttl@toksa=\toks23
+\titlewidth=\dimen135
+\titlewidthlast=\dimen136
+\titlewidthfirst=\dimen137
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count135
+)
+(SeminarReport.aux
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+
+LaTeX Warning: Label `manual' multiply defined.
+
+)
+\openout1 = `SeminarReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen138
+\scratchbox=\box41
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen139
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks25
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count142
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 434.90038pt, 54.2025pt)
+* v-part:(T,H,B)=(86.72377pt, 671.5993pt, 86.72377pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=434.90038pt
+* \textheight=671.5993pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-22.54622pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+(titlepage_1.tex
+<./images/logo.png, id=1, 194.22563pt x 140.02313pt>
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png  used on input line 53.
+(pdftex.def)             Requested size: 155.3807pt x 112.01865pt.
+ [1
+
+{C:/Users/Akcreations/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ima
+ges/logo.png>]) (certificate.tex
+File: ./images/logo.png Graphic file (type png)
+<use ./images/logo.png>
+Package pdftex.def Info: ./images/logo.png  used on input line 11.
+(pdftex.def)             Requested size: 155.3807pt x 112.01865pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1])
+(declaration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+) [1] (acknowledgement.tex
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  \\W
+        e thank \textbf{Mrs. Surya Surendran} , our Project Guide and \textb...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+) (abstract.tex [2]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 	\indent
+             \textbf{\textit{iHalo}} is a personal home automation assistant...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+) [3] (SeminarReport.toc [4
+
+])
+\tf@toc=\write3
+\openout3 = `SeminarReport.toc'.
+
+ [5] (SeminarReport.lof [6
+
+])
+\tf@lof=\write4
+\openout4 = `SeminarReport.lof'.
+
+ [7]
+(literature_review.tex
+Chapter 1.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+]
+Chapter 2.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ∏ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ∏ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no î in font cmr12!
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+Chapter 3.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+Chapter 4.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Æ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ñ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+Chapter 5.
+<./images/p1.png, id=74, 683.55376pt x 296.60812pt>
+File: ./images/p1.png Graphic file (type png)
+<use ./images/p1.png>
+Package pdftex.def Info: ./images/p1.png  used on input line 80.
+(pdftex.def)             Requested size: 434.90709pt x 199.17447pt.
+<./images/p2.png, id=75, 529.98pt x 204.01219pt>
+File: ./images/p2.png Graphic file (type png)
+<use ./images/p2.png>
+Package pdftex.def Info: ./images/p2.png  used on input line 89.
+(pdftex.def)             Requested size: 434.90178pt x 199.18034pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11
+
+ <./images/p1.png>]
+<./images/p3.png, id=80, 495.35063pt x 322.95656pt>
+File: ./images/p3.png Graphic file (type png)
+<use ./images/p3.png>
+Package pdftex.def Info: ./images/p3.png  used on input line 98.
+(pdftex.def)             Requested size: 434.90463pt x 227.62033pt.
+<./images/p4.png, id=81, 310.15875pt x 168.63pt>
+File: ./images/p4.png Graphic file (type png)
+<use ./images/p4.png>
+Package pdftex.def Info: ./images/p4.png  used on input line 109.
+(pdftex.def)             Requested size: 434.90079pt x 284.5341pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <./images/p2.png> <./images/p3.png>]
+<./images/p5.png, id=87, 370.38374pt x 253.69781pt>
+File: ./images/p5.png Graphic file (type png)
+<use ./images/p5.png>
+Package pdftex.def Info: ./images/p5.png  used on input line 118.
+(pdftex.def)             Requested size: 434.90706pt x 227.62912pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13 <./images/p4.png>]
+<./images/p6.png, id=92, 642.14906pt x 264.99pt>
+File: ./images/p6.png Graphic file (type png)
+<use ./images/p6.png>
+Package pdftex.def Info: ./images/p6.png  used on input line 133.
+(pdftex.def)             Requested size: 434.91147pt x 284.54735pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <./images/p5.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--164
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <./images/p6.png>]
+<./images/p7.png, id=101, 458.46281pt x 312.41719pt>
+File: ./images/p7.png Graphic file (type png)
+<use ./images/p7.png>
+Package pdftex.def Info: ./images/p7.png  used on input line 168.
+(pdftex.def)             Requested size: 434.92159pt x 227.62883pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17 <./images/p7.png>]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--194
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23]
+Chapter 7.
+<./images/p9.png, id=130, 410.2828pt x 249.18094pt>
+File: ./images/p9.png Graphic file (type png)
+<use ./images/p9.png>
+Package pdftex.def Info: ./images/p9.png  used on input line 232.
+(pdftex.def)             Requested size: 434.8977pt x 199.1739pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24
+
+ <./images/p9.png>]
+Chapter 8.
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 242.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25
+
+]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 285.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+<./images/p10.png, id=143, 260.47313pt x 175.40532pt>
+File: ./images/p10.png Graphic file (type png)
+<use ./images/p10.png>
+Package pdftex.def Info: ./images/p10.png  used on input line 348.
+(pdftex.def)             Requested size: 434.9051pt x 199.18527pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27]
+<./images/p11.png, id=147, 254.45062pt x 194.22563pt>
+File: ./images/p11.png Graphic file (type png)
+<use ./images/p11.png>
+Package pdftex.def Info: ./images/p11.png  used on input line 356.
+(pdftex.def)             Requested size: 227.63287pt x 199.17441pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/p13.png, id=148, 1010.27437pt x 484.05844pt>
+File: ./images/p13.png Graphic file (type png)
+<use ./images/p13.png>
+Package pdftex.def Info: ./images/p13.png  used on input line 364.
+(pdftex.def)             Requested size: 434.9028pt x 284.53578pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28 <./images/p10.png> <./images/p11.png>]
+<./images/p14.png, id=155, 998.9822pt x 501.37312pt>
+File: ./images/p14.png Graphic file (type png)
+<use ./images/p14.png>
+Package pdftex.def Info: ./images/p14.png  used on input line 372.
+(pdftex.def)             Requested size: 434.90434pt x 284.53864pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.376 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/p15.png, id=156, 268.00125pt x 161.10187pt>
+File: ./images/p15.png Graphic file (type png)
+<use ./images/p15.png>
+Package pdftex.def Info: ./images/p15.png  used on input line 380.
+(pdftex.def)             Requested size: 434.8998pt x 227.63055pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <./images/p13.png> <./images/p14.png>]
+<./images/p16.png, id=162, 280.04625pt x 172.39406pt>
+File: ./images/p16.png Graphic file (type png)
+<use ./images/p16.png>
+Package pdftex.def Info: ./images/p16.png  used on input line 388.
+(pdftex.def)             Requested size: 434.9218pt x 227.62398pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.392 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/p17.png, id=163, 271.76532pt x 147.55125pt>
+File: ./images/p17.png Graphic file (type png)
+<use ./images/p17.png>
+Package pdftex.def Info: ./images/p17.png  used on input line 396.
+(pdftex.def)             Requested size: 434.92047pt x 227.6281pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30 <./images/p15.png> <./images/p16.png>]
+<./images/p18.png, id=169, 281.55188pt x 167.87718pt>
+File: ./images/p18.png Graphic file (type png)
+<use ./images/p18.png>
+Package pdftex.def Info: ./images/p18.png  used on input line 404.
+(pdftex.def)             Requested size: 434.9273pt x 227.62343pt.
+<./images/p19.png, id=170, 280.04625pt x 173.89969pt>
+File: ./images/p19.png Graphic file (type png)
+<use ./images/p19.png>
+Package pdftex.def Info: ./images/p19.png  used on input line 412.
+(pdftex.def)             Requested size: 434.9218pt x 227.63245pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.416 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31 <./images/p17.png> <./images/p18.png>]
+<./images/p20.png, id=176, 264.23718pt x 187.45032pt>
+File: ./images/p20.png Graphic file (type png)
+<use ./images/p20.png>
+Package pdftex.def Info: ./images/p20.png  used on input line 421.
+(pdftex.def)             Requested size: 434.92825pt x 227.63646pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.425 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/p21.png, id=177, 792.71156pt x 451.6875pt>
+File: ./images/p21.png Graphic file (type png)
+<use ./images/p21.png>
+Package pdftex.def Info: ./images/p21.png  used on input line 430.
+(pdftex.def)             Requested size: 434.90408pt x 256.0861pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32 <./images/p19.png> <./images/p20.png>]
+<./images/p25.png, id=183, 280.04625pt x 158.84344pt>
+File: ./images/p25.png Graphic file (type png)
+<use ./images/p25.png>
+Package pdftex.def Info: ./images/p25.png  used on input line 439.
+(pdftex.def)             Requested size: 434.9218pt x 199.1864pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/p26.png, id=184, 590.205pt x 325.96782pt>
+File: ./images/p26.png Graphic file (type png)
+<use ./images/p26.png>
+Package pdftex.def Info: ./images/p26.png  used on input line 448.
+(pdftex.def)             Requested size: 434.90767pt x 256.0942pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33 <./images/p21.png> <./images/p25.png>]
+<./images/p27.png, id=190, 883.04906pt x 516.42938pt>
+File: ./images/p27.png Graphic file (type png)
+<use ./images/p27.png>
+Package pdftex.def Info: ./images/p27.png  used on input line 456.
+(pdftex.def)             Requested size: 434.9076pt x 227.62363pt.
+<./images/p28.jpg, id=191, 216.81pt x 144.54pt>
+File: ./images/p28.jpg Graphic file (type jpg)
+<use ./images/p28.jpg>
+Package pdftex.def Info: ./images/p28.jpg  used on input line 465.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34 <./images/p26.png> <./images/p27.png>]
+<./images/p29.jpg, id=198, 216.81pt x 144.54pt>
+File: ./images/p29.jpg Graphic file (type jpg)
+<use ./images/p29.jpg>
+Package pdftex.def Info: ./images/p29.jpg  used on input line 473.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p30.jpg, id=199, 216.81pt x 144.54pt>
+File: ./images/p30.jpg Graphic file (type jpg)
+<use ./images/p30.jpg>
+Package pdftex.def Info: ./images/p30.jpg  used on input line 481.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35 <./images/p28.jpg> <./images/p29.jpg>]
+<./images/p31.jpg, id=203, 216.81pt x 144.54pt>
+File: ./images/p31.jpg Graphic file (type jpg)
+<use ./images/p31.jpg>
+Package pdftex.def Info: ./images/p31.jpg  used on input line 489.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p32.jpg, id=204, 216.81pt x 144.54pt>
+File: ./images/p32.jpg Graphic file (type jpg)
+<use ./images/p32.jpg>
+Package pdftex.def Info: ./images/p32.jpg  used on input line 497.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36 <./images/p30.jpg> <./images/p31.jpg>]
+<./images/p33.jpg, id=208, 216.81pt x 144.54pt>
+File: ./images/p33.jpg Graphic file (type jpg)
+<use ./images/p33.jpg>
+Package pdftex.def Info: ./images/p33.jpg  used on input line 505.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p34.jpg, id=209, 216.81pt x 144.54pt>
+File: ./images/p34.jpg Graphic file (type jpg)
+<use ./images/p34.jpg>
+Package pdftex.def Info: ./images/p34.jpg  used on input line 513.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37 <./images/p32.jpg> <./images/p33.jpg>]
+<./images/p35.jpg, id=213, 216.81pt x 144.54pt>
+File: ./images/p35.jpg Graphic file (type jpg)
+<use ./images/p35.jpg>
+Package pdftex.def Info: ./images/p35.jpg  used on input line 521.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p36.jpg, id=214, 216.81pt x 144.54pt>
+File: ./images/p36.jpg Graphic file (type jpg)
+<use ./images/p36.jpg>
+Package pdftex.def Info: ./images/p36.jpg  used on input line 529.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38 <./images/p34.jpg> <./images/p35.jpg>]
+<./images/p37.jpg, id=218, 216.81pt x 144.54pt>
+File: ./images/p37.jpg Graphic file (type jpg)
+<use ./images/p37.jpg>
+Package pdftex.def Info: ./images/p37.jpg  used on input line 537.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p38.jpg, id=219, 225.4824pt x 152.9715pt>
+File: ./images/p38.jpg Graphic file (type jpg)
+<use ./images/p38.jpg>
+Package pdftex.def Info: ./images/p38.jpg  used on input line 545.
+(pdftex.def)             Requested size: 434.92369pt x 256.07767pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39 <./images/p36.jpg> <./images/p37.jpg>]
+<./images/p39.jpg, id=223, 216.81pt x 144.54pt>
+File: ./images/p39.jpg Graphic file (type jpg)
+<use ./images/p39.jpg>
+Package pdftex.def Info: ./images/p39.jpg  used on input line 553.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p40.jpg, id=224, 216.81pt x 144.54pt>
+File: ./images/p40.jpg Graphic file (type jpg)
+<use ./images/p40.jpg>
+Package pdftex.def Info: ./images/p40.jpg  used on input line 561.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40 <./images/p38.jpg> <./images/p39.jpg>]
+<./images/p41.jpg, id=229, 216.81pt x 144.54pt>
+File: ./images/p41.jpg Graphic file (type jpg)
+<use ./images/p41.jpg>
+Package pdftex.def Info: ./images/p41.jpg  used on input line 569.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+<./images/p42.jpg, id=230, 216.81pt x 144.54pt>
+File: ./images/p42.jpg Graphic file (type jpg)
+<use ./images/p42.jpg>
+Package pdftex.def Info: ./images/p42.jpg  used on input line 577.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41 <./images/p40.jpg> <./images/p41.jpg>]
+<./images/p43.jpg, id=234, 216.81pt x 144.54pt>
+File: ./images/p43.jpg Graphic file (type jpg)
+<use ./images/p43.jpg>
+Package pdftex.def Info: ./images/p43.jpg  used on input line 585.
+(pdftex.def)             Requested size: 434.95546pt x 256.08939pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42 <./images/p42.jpg> <./images/p43.jpg>]
+Chapter 9.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43
+
+]
+Chapter 10.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44
+
+]
+Chapter 11.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 600--108
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45
+
+] (SeminarReport.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1061 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 6812 strings out of 493303
+ 101251 string characters out of 3138838
+ 296537 words of memory out of 3000000
+ 10186 multiletter control sequences out of 15000+200000
+ 13399 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,12n,69p,1555b,5373s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on SeminarReport.pdf (54 pages, 4482244 bytes).
+PDF statistics:
+ 288 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+

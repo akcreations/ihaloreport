@@ -1,0 +1,121 @@
+
+\documentclass[a4paper,12pt, notitlepage,openright]{report}
+%\usepackage[bindingoffset=1.5cm ]{geometry}
+\input{arduinoLanguage.tex}
+
+\usepackage[a4paper,left=1.5in,top=1.2in,right=0.75in,bottom=1.2in]{geometry}
+\usepackage{amsfonts} % if you want blackboard bold symbols e.g. for real numbers
+\usepackage{graphicx} % if you want to include jpeg or pdf pictures
+\usepackage{float}
+\restylefloat{figure}
+\restylefloat{table}
+\usepackage{algorithmic}
+\usepackage[linesnumbered, ruled, vlined]{algorithm2e}
+\usepackage[caption=false]{subfig}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{lscape}
+\usepackage{afterpage} %Soften at around 130°C.
+\usepackage{blindtext}
+\onehalfspacing
+\newcommand{\changefont}{%
+    \fontsize{9}{11}\selectfont
+}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{}{}{}% Removes space above \chapter head
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{}{}{}% Removes space above \chapter* head
+\makeatother
+
+\begin{document}
+
+%%%%%%%%%% PRELIMINARY MATERIAL %%%%%%%%%%
+\setlength{\marginparwidth}{0pt}
+\thispagestyle{empty}
+\newpage
+\input{titlepage_1}
+%\cleardoublepage
+\pagenumbering{roman}
+\thispagestyle{empty}
+%\cleardoublepage
+\input{certificate}
+\newpage
+\input{declaration}
+\newpage
+\input{acknowledgement}
+\input{abstract}
+
+\thispagestyle{empty}
+%\cleardoublepage
+%\input{acknowledgement}
+%\cleardoublepage
+%\newpage
+\thispagestyle{empty}
+%\section*{\centering{Abstract}}
+%\input{abstract}
+%\pagenumbering{roman}
+\tableofcontents 
+%\cleardoublepage
+%\clearpage
+\newpage
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+%\cleardoublepage
+%\clearpage
+\newpage
+\addcontentsline{toc}{chapter}{List of Tables}
+%\listoftables
+%\cleardoublepage
+%\clearpage
+%\newpage
+%\addcontentsline{toc}{chapter}{List of Algorithms}
+%\listofalgorithms
+%%%%%%%%%% MAIN TEXT STARTS HERE %%%%%%%%%%
+
+%%%%%%%%%% SAMPLE CHAPTER %%%%%%%%%%
+\newpage
+%\cleardoublepage
+
+\pagestyle{fancy}
+\rhead[\textit{\nouppercase{\thepage}}]{\textit{\nouppercase{{iHALO}}}}
+\lhead[\textit{\nouppercase{\leftmark}}]{\textit{\nouppercase{Project Report}}}
+%\fancyhf{}
+%\renewcommand{\headrulewidth}{0pt}
+%\fancyhf[HLE,HRO]{\thepage}
+%\fancyhf[HRE,HLO]{\thepage}
+%\fancyhf{}
+%\fancyhead[LE,RO]{\thepage}
+%\fancyhead[RE]{\textit{ \nouppercase{\leftmark}} }
+%\fancyhead[LO]{\textit{ \nouppercase{\rightmark}} }
+\lfoot{\changefont Dept. of Computer Science \& Engineering}
+\cfoot{\changefont \thepage}
+\rfoot{\changefont CE, Aranmula}
+
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+%\input{introduction}
+\input{literature_review}
+%\input{InsertingFiguresTables}
+%\input{Algorithms}
+
+
+
+
+
+%%%%%%%%%% BIBLIOGRAPHY %%%%%%%%%%
+%\input{bibiliography}
+%\newpage
+%\input{publications}
+%%%%%%%%%% APPENDIX %%%%%%%%%%
+\appendix
+%\input{appendix}
+
+\end{document}
